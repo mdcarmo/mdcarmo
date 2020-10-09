@@ -10,6 +10,7 @@ Sou Marcelo Dias:
 
 ## 🧐 About
 - Atualmente trabalhando no Grupo XP
+- Anteriormente trabalhei na Scania
 - Dono do blog: www.marcdias.com.br
 
 <!--
