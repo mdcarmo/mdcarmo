@@ -1,4 +1,16 @@
-### Hi there 👋
+# Marcelo Dias
+[![Linkedin Badge](https://img.shields.io/badge/-Marcelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdcarmo/)](https://www.linkedin.com/in/mdcarmo/) 
+[![Gmail Badge](https://img.shields.io/badge/-marc29dias@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marc29dias@gmail.com)](mailto:marc29dias@gmail.com)
+---
+
+## Hi there 👋,           
+Sou Marcelo Dias:
+- Arquiteto de software
+- Desenvolvedor de sistemas
+
+## 🧐 About
+- Atualmente trabalhando no Grupo XP
+- Dono do blog: www.marcdias.com.br
 
 <!--
 **mdcarmo/mdcarmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
