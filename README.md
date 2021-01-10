@@ -8,6 +8,8 @@ Sou Marcelo Dias:
 - Arquiteto de software
 - Desenvolvedor de sistemas
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mdcarmo)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 🧐 About
 - Atualmente trabalhando no Grupo XP
 - Anteriormente trabalhei na Scania
