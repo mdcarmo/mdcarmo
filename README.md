@@ -11,7 +11,8 @@ Sou Marcelo Dias:
 [![trophy](https://github-profile-trophy.vercel.app/?username=mdcarmo)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🧐 About
-- Atualmente trabalhando no Grupo XP
+- Atualmente trabalhando no Grupo Serasa Experian
+- Anteriormente trabalhei no Grupo XP
 - Anteriormente trabalhei na Scania
 - Dono do blog: www.marcdias.com.br
 
